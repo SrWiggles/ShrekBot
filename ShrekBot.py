@@ -21,4 +21,4 @@ async def shreked(ctx):
 	#victim_member = discord.utils.get(ctx.message.server.members, name=victim)
 	await bot.create_channel(ctx.message.server, "The Shrek Zone", type=discord.ChannelType.voice)
 
-bot.run("NDYwODkwNzc1NTg1MTYxMjE2.DhLV6A.D9-GoCS0LR-xhDEzpniYoKcsZ9A")
+bot.run("<BOT_TOKEN_GOES_HERE>")
